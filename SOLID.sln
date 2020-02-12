@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SOLID\SingleResponsibility.csproj", "{7259D543-243C-4707-96AD-EE74E27504BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSeggregationPrinciple", "InterfaceSeggregationPrinciple\InterfaceSeggregationPrinciple.csproj", "{EB18B740-ACA8-4CDA-8AB5-0AF003D46319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{9265BF13-FEF9-4F6B-887E-F4209C9DC224}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7259D543-243C-4707-96AD-EE74E27504BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7259D543-243C-4707-96AD-EE74E27504BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7259D543-243C-4707-96AD-EE74E27504BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB18B740-ACA8-4CDA-8AB5-0AF003D46319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB18B740-ACA8-4CDA-8AB5-0AF003D46319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB18B740-ACA8-4CDA-8AB5-0AF003D46319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB18B740-ACA8-4CDA-8AB5-0AF003D46319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9265BF13-FEF9-4F6B-887E-F4209C9DC224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9265BF13-FEF9-4F6B-887E-F4209C9DC224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9265BF13-FEF9-4F6B-887E-F4209C9DC224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9265BF13-FEF9-4F6B-887E-F4209C9DC224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
